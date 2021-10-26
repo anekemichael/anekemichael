@@ -3,8 +3,8 @@
 
 - 🔭 I’m Aneke Michael
 - 🌱 I’m a Sofware Developer
-- 👯 I’m looking to collaborate with clients and teams.
-- 💬 Ask me about code and tech related issues.
+- 👯 I’m looking to collaborate with clients and teams
+- 💬 Ask me about code and tech related issues
 - 📫 How to reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/)
 - ⚡ Fun fact: Am Jovial and a fun person, feel free to contact me anytime.
 
