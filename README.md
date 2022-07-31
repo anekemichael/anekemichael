@@ -1,4 +1,4 @@
-![](https://github.com/anekemichael/anekemichael/blob/main/Github%20banner.png)
+![](https://github.com/anekemichael/anekemichael/blob/main/mybanner2.png)
 ### Hey there 👋
 
 - 🔭 I’m Aneke Michael,
