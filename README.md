@@ -2,7 +2,7 @@
 ### Hey there 👋
 
 - 🔭 I’m Aneke Michael,
-- 🌱 I’m a Sofware Developer (Majoring on Frontend now),
+- 🌱 I’m a Sofware Developer (Majoring on Frontend),
 - 👯 I’m looking to collaborate with clients and teams,
 - 💬 Ask me about code and tech related stuffs,
 - 📫 You can reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/).
