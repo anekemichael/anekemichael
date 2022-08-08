@@ -10,7 +10,13 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=anekemichael&show_icons=true&theme=radical)
   
-  
+  # CONNECT WITH ME
+
+![[Twitter](https://https://twitter.com/d1_codes)](https://img.shields.io/badge/eddybruv-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/eddybruv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <!--
 **anekemichael/anekemichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
