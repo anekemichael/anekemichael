@@ -12,7 +12,7 @@
   
   # CONNECT WITH ME
 
-![[Twitter](https://https://twitter.com/d1_codes)](https://img.shields.io/badge/eddybruv-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![[Twitter](https://https://twitter.com/d1_codes)](https://img.shields.io/badge/d1_codes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/eddybruv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
