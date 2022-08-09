@@ -10,7 +10,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=anekemichael&show_icons=true&theme=radical)
   
-  # CONNECT WITH ME
+  # LET'S CONNECT
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/d1_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneke-michael-19718a1a4) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anekemikeobiora2@gmail.com) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anekemichael.vercel.app/) 
 
