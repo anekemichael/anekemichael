@@ -1,5 +1,5 @@
 ![](https://github.com/anekemichael/anekemichael/blob/main/mybanner2.png)
-### Hey there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 - 🔭 I’m Aneke Michael,
 - 🌱 I’m a Sofware Developer (Majoring on Frontend),
