@@ -3,7 +3,7 @@
 
 - 🔭 I’m Michael,
 - 🌱 I’m a Sofware Developer (Frontend specifically) and also fasinated about Open Source
-- 👯 I’m looking to collaborate with clients and teams,
+- 👯 I’m looking to collaborate with clients and teams and build some complex projects,
 - 💬 Ask me about code and tech related stuffs,
 - 📫 You can reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/).
 - ⚡ Fun fact: Am definitely not a mushroom but you can call me a FUN-GUY (Fungi), feel free to contact me anytime.
