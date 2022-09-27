@@ -1,8 +1,8 @@
 ![](https://github.com/anekemichael/anekemichael/blob/main/mybanner2.png)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
-- 🔭 I’m Michael,
-- 🌱 I’m a Sofware Developer (Frontend specifically) and also an Open Source fan,
+- 🔭 I’m Michael 🙋‍♂️,
+- 🥑 I’m a Sofware Developer (Frontend specifically) and also an Open Source fan 🌏,
 - 👯 I’m looking to collaborate with clients and teams and build some complex projects,
 - 💬 Ask me about code and tech related stuffs,
 - 📫 You can reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/).
