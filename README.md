@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with clients and teams and build some complex projects,
 - 💬 Ask me about code and tech related stuffs,
 - 📫 You can reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/).
-- ⚡ Fun fact: Am definitely not a mushroom but you can call me a FUN-GUY (Fungi). Well, that was not a fun fact but then, feel free to contact me anytime (I think i'm funny though).
+- ⚡ Fun fact: Am definitely not a mushroom but you can call me a Fungi ("Fun-Guy" i think 😄). Well, that was not a fun fact but then, feel free to contact me anytime (I think i'm funny though 😎).
 
   ![](https://github-readme-stats.vercel.app/api?username=anekemichael&show_icons=true&theme=radical)
   
