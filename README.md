@@ -2,11 +2,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 - 🔭 I’m Michael 🙋‍♂️,
-- 🥑 I’m a Sofware Developer (Frontend specifically) and also an Open Source fan 🌏,
+- 🥑 I’m a Sofware Developer (Frontend & Cloud Enthusiast) and also fascinated about the Open Source Space 🌏,
 - 👯 I’m looking to collaborate with clients and teams and build some complex projects,
 - 💬 Ask me about code and tech related stuffs,
 - 📫 You can reach me: [Twitter](https://twitter.com/d1_codes/) , [Instagram](https://instagram.com/d1_codes/) , [LinkedIn](https://www.linkedin.com/in/aneke-michael-19718a1a4/).
-- ⚡ Fun fact: Am definitely not a mushroom but you can call me a FUN-GUY (Fungi), feel free to contact me anytime.
+- ⚡ Fun fact: Am definitely not a mushroom but you can call me a FUN-GUY (Fungi). Well, that was not a fun fact but then, feel free to contact me anytime (I think i'm funny though).
 
   ![](https://github-readme-stats.vercel.app/api?username=anekemichael&show_icons=true&theme=radical)
   
